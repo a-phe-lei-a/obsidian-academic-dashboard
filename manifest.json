@@ -1,0 +1,10 @@
+{
+	"id": "obsidian-academic-dashboard",
+	"name": "Academic Dashboard",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "A dashboard for academic management in Obsidian.",
+	"author": "Kiwi",
+	"authorUrl": "https://github.com/kiwi/obsidian-academic-dashboard",
+	"isDesktopOnly": false
+}
